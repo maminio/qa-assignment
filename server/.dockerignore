@@ -1,0 +1,8 @@
+**/node_modules
+**/*Dockerfile
+**/*.Dockerfile
+**/temp*
+**/README*
+**/*.log
+**/build
+newrelic_agent.log

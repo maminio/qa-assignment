@@ -1,0 +1,8 @@
+db:
+  host: 'postgres.service.mesh'
+  username: 'postgres'
+  password: 'postgres'
+  synchronize: true
+
+jwt:
+  secret: 'very_secret'
