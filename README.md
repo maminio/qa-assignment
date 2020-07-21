@@ -1,4 +1,4 @@
-# qa-assignment# Case Assignment
+# QA Case Assignment
 
 In this document I will explain how I will approach this problem and my methods in solving it.
 I developed such a service in JavaScript and deployed it on my own server for sake of demo. 
